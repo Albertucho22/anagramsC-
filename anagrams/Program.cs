@@ -62,7 +62,7 @@ namespace anagrams
                     if (p.isAnagram(g, x))
                     {
                         if (isAnagramAux) Console.Write(g);
-                        Console.Write(" " + g);
+                        Console.Write(" " + x);
                         isAnagramAux = false;
                     }
                 }
