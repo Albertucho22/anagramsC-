@@ -11,3 +11,16 @@ C:\Users\ALBERTO\Documents\Trimestre 10\Tendencias en desarrollo de aplicaciones
 C:\Users\ALBERTO\Documents\Trimestre 10\Tendencias en desarrollo de aplicaciones\Semana 7 idk\anagrams\anagrams\obj\Debug\netcoreapp3.1\anagrams.dll
 C:\Users\ALBERTO\Documents\Trimestre 10\Tendencias en desarrollo de aplicaciones\Semana 7 idk\anagrams\anagrams\obj\Debug\netcoreapp3.1\anagrams.pdb
 C:\Users\ALBERTO\Documents\Trimestre 10\Tendencias en desarrollo de aplicaciones\Semana 7 idk\anagrams\anagrams\obj\Debug\netcoreapp3.1\anagrams.genruntimeconfig.cache
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\bin\Debug\netcoreapp3.1\anagrams.exe
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\bin\Debug\netcoreapp3.1\anagrams.deps.json
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\bin\Debug\netcoreapp3.1\anagrams.runtimeconfig.json
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\bin\Debug\netcoreapp3.1\anagrams.runtimeconfig.dev.json
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\bin\Debug\netcoreapp3.1\anagrams.dll
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\bin\Debug\netcoreapp3.1\anagrams.pdb
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\obj\Debug\netcoreapp3.1\anagrams.csprojAssemblyReference.cache
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\obj\Debug\netcoreapp3.1\anagrams.AssemblyInfoInputs.cache
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\obj\Debug\netcoreapp3.1\anagrams.AssemblyInfo.cs
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\obj\Debug\netcoreapp3.1\anagrams.csproj.CoreCompileInputs.cache
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\obj\Debug\netcoreapp3.1\anagrams.dll
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\obj\Debug\netcoreapp3.1\anagrams.pdb
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\GitAnagram\anagramsC-\anagrams\obj\Debug\netcoreapp3.1\anagrams.genruntimeconfig.cache

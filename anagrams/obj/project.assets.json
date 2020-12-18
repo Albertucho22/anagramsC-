@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ALBERTO\\.nuget\\packages\\": {}
+    "C:\\Users\\elpri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALBERTO\\Documents\\Trimestre 10\\Tendencias en desarrollo de aplicaciones\\Semana 7 idk\\anagrams\\anagrams\\anagrams.csproj",
+      "projectUniqueName": "C:\\Users\\elpri\\Desktop\\Trabajos INTEC\\8vo trimestre\\Tendencias en el desarrollo\\GitAnagram\\anagramsC-\\anagrams\\anagrams.csproj",
       "projectName": "anagrams",
-      "projectPath": "C:\\Users\\ALBERTO\\Documents\\Trimestre 10\\Tendencias en desarrollo de aplicaciones\\Semana 7 idk\\anagrams\\anagrams\\anagrams.csproj",
-      "packagesPath": "C:\\Users\\ALBERTO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALBERTO\\Documents\\Trimestre 10\\Tendencias en desarrollo de aplicaciones\\Semana 7 idk\\anagrams\\anagrams\\obj\\",
+      "projectPath": "C:\\Users\\elpri\\Desktop\\Trabajos INTEC\\8vo trimestre\\Tendencias en el desarrollo\\GitAnagram\\anagramsC-\\anagrams\\anagrams.csproj",
+      "packagesPath": "C:\\Users\\elpri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\elpri\\Desktop\\Trabajos INTEC\\8vo trimestre\\Tendencias en el desarrollo\\GitAnagram\\anagramsC-\\anagrams\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ALBERTO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\elpri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
